@@ -32,9 +32,9 @@ Currently pursuing my M.S. in Data Analytics at San Jose State University, I spe
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-nanduri/)
-- 🧠 [GitHub](https://github.com/vaishnavi333)
-- 🌐 [Portfolio](https://vaishnavi333.github.io/vaishnavinanduri.github.io/)
+-  [LinkedIn](https://www.linkedin.com/in/vaishnavi-nanduri/)
+-  [GitHub](https://github.com/vaishnavi333)
+-  [Portfolio](https://vaishnavi333.github.io/vaishnavinanduri.github.io/)
 
 ---
 
