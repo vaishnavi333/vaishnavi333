@@ -3,18 +3,17 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;AI+%26+ML+Engineer;GenAI+Specialist;Big+Data+Developer;LLM+Fine-Tuning+Expert;Always+Learning+Always+Building!&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;BI+Engineer;Data+Scientist;AI+%26+ML+Engineer;LLM+%2F+GenAI+Specialist&center=true&width=600&height=45">
   </a>
 </p>
 
 <!-- New Right GIF (Clean & Professional) -->
 <p>
-  <img align="right" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE0dTVlMjkxc2Z1c2EyaWJ1cHQ0bmg2ZWo2N2x5dWw1Z3g3bXQxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOZhmE42D1Q1q/giphy.gif">
 </p>
 
 <p align="center">
-  <b>Data Scientist | AI/ML Engineer | Data Enthusiast</b><br>
-  <em>I turn messy data into clean decisions, one model at a time.</em>
+  <em>Always learning. One dataset at a time! </em>
 </p>
 
 ---
