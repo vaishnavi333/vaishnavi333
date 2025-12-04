@@ -9,7 +9,7 @@
 
 <!-- New Right GIF (Clean & Professional) -->
 <p>
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE0dTVlMjkxc2Z1c2EyaWJ1cHQ0bmg2ZWo2N2x5dWw1Z3g3bXQxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOZhmE42D1Q1q/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h5ZnFrdW1ubG43Z3lrNWQ3cXRpYjQzM3ozd3FyNjd6bDk1MGxqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 <p align="center">
