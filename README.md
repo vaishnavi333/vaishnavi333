@@ -28,7 +28,7 @@ Currently pursuing my M.S. in Data Analytics at San Jose State University, I spe
 ---
 
 ### ⚡ Fun Facts
-- I debug faster when coffee is nearby ☕  
+- I debug faster when Chai (Indian Tea) is nearby ☕  
 - My models sometimes hallucinate more than I do during finals 😅  
 
 ---
