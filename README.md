@@ -21,7 +21,7 @@
 
 ### 💫 About Me
 
-I’m a data science professional with a strong foundation in computer science and 4+ years of experience turning data into insight and innovation. From building dashboards and pipelines to designing ML systems and explainable AI frameworks, I thrive at the intersection of analytics, automation, and creativity.
+I’m a Data and AI professional with a strong foundation in computer science and 4+ years of experience turning data into insight and innovation. From building dashboards and pipelines to designing ML systems and explainable AI frameworks, I thrive at the intersection of analytics, automation, and creativity.
 
 Completed my Masters in Data Science at San Jose State University, I spend my days exploring LLMs, AI/ML, and real-time systems — and my nights experimenting with projects that blend data, logic, and a little bit of magic.
 
