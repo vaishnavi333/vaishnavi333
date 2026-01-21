@@ -49,12 +49,6 @@ Completed my Masters in Data Science at San Jose State University, I spend my da
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishnavi333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaishnavi333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaishnavi333&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vaishnavi333&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
@@ -144,14 +138,6 @@ Completed my Masters in Data Science at San Jose State University, I spend my da
 -  [LinkedIn](https://www.linkedin.com/in/vaishnavi-nanduri/)
 -  [GitHub](https://github.com/vaishnavi333)
 -  [Portfolio](https://vaishnavi333.github.io/vaishnavinanduri.github.io/)
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi333&theme=dark&hide_border=false" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi333&layout=compact&theme=dark" width="40%" />
-</p>
 
 ---
 
