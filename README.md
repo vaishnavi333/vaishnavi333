@@ -34,7 +34,7 @@ Completed my Masters in Data Science at San Jose State University, I spend my da
 ---
 
 ### 💡 Featured Projects
-
+-  [AI Mock Interviwer](https://github.com/vaishnavi333/aimockinterviewer)
 -  [Ex-PErt: Explainable PE Malware Detection via LLM-Enhanced Reasoning](https://github.com/vaishnavi333/Ex-PErt-Explainable_PE-Malware_Detection_via_LLM-Enhanced_Reasoning)
 -  [Personality-Affected Emotion Generation in Dialog Systems](https://github.com/vaishnavi333/Personality-Affected-Emotion-Generation-in-Dialog-Systems)
 -  [Uber Transport Simulation](https://github.com/vaishnavi333/Uber-Transport-Project-DS)
@@ -49,8 +49,6 @@ Completed my Masters in Data Science at San Jose State University, I spend my da
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishnavi333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=vaishnavi333&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 # 💻 Tech Stack
