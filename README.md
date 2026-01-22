@@ -33,16 +33,40 @@ Completed my Masters in Data Science at San Jose State University, I spend my da
 
 ---
 
-### 💡 Featured Projects
--  [AI Mock Interviwer](https://github.com/vaishnavi333/aimockinterviewer)
--  [Ex-PErt: Explainable PE Malware Detection via LLM-Enhanced Reasoning](https://github.com/vaishnavi333/Ex-PErt-Explainable_PE-Malware_Detection_via_LLM-Enhanced_Reasoning)
--  [Personality-Affected Emotion Generation in Dialog Systems](https://github.com/vaishnavi333/Personality-Affected-Emotion-Generation-in-Dialog-Systems)
--  [Uber Transport Simulation](https://github.com/vaishnavi333/Uber-Transport-Project-DS)
--  [Uber Eats Simulation](https://github.com/vaishnavi333/UberEatsLab-2.git)
--  [Solar Energy Forecasting](https://github.com/vaishnavi333/BigDataProject)
--  [ICS Anomaly Detection](https://github.com/vaishnavi333/Anomaly-Detection-for-ICS)
--  [Chicago Crash Analysis](https://github.com/vaishnavi333/Crash-Analysis)
--  [Airline Data Odyssey](https://github.com/vaishnavi333/AirLine-Analysis.git)
+## 🚀 Project Portfolio
+
+### 🤖 LLM / Generative AI Projects
+| Project | Description |
+|-------|-------------|
+| **[AI Mock Interviewer](https://github.com/vaishnavi333/aimockinterviewer)** | AI-powered mock interview system with **voice-based Q&A**, real-time evaluation, and structured feedback using LLMs. Designed for Data Analyst, Data Scientist, and ML roles. |
+| **[Ex-PErt: Explainable PE Malware Detection](https://github.com/vaishnavi333/Ex-PErt-Explainable_PE-Malware_Detection_via_LLM-Enhanced_Reasoning)** | Explainable malware detection framework using **LLM-enhanced reasoning** to analyze PE files with interpretable security insights. |
+| **[Personality-Affected Emotion Generation in Dialog Systems](https://github.com/vaishnavi333/Personality-Affected-Emotion-Generation-in-Dialog-Systems)** | NLP-based dialog system that generates emotionally adaptive responses conditioned on personality traits. |
+
+---
+
+### 🏗️ Data-Driven Systems & Machine Learning
+| Project | Description |
+|-------|-------------|
+| **[Uber Transport Simulation](https://github.com/vaishnavi333/Uber-Transport-Project-DS)** | End-to-end Uber-like system combining **backend services, simulation logic, analytics, and ML-driven insights** to model ride demand, matching, and routing behavior. |
+| **[Uber Eats Simulation](https://github.com/vaishnavi333/UberEatsLab-2.git)** | Food delivery platform simulation with **order orchestration, delivery time modeling, and system-level performance analysis**. |
+| **[ICS Anomaly Detection](https://github.com/vaishnavi333/Anomaly-Detection-for-ICS)** | **Pure machine learning–based anomaly detection** on Industrial Control System (ICS) data to identify abnormal operational patterns. |
+
+---
+
+### 🛠️ Big Data / Data Engineering Projects
+| Project | Description |
+|-------|-------------|
+| **[Solar Energy Forecasting](https://github.com/vaishnavi333/BigDataProject)** | Built a **big data forecasting pipeline** for solar energy generation using distributed processing and time-series modeling. |
+| **[Airline Data Odyssey](https://github.com/vaishnavi333/AirLine-Analysis.git)** | Large-scale airline delay and performance analysis using structured datasets and analytical pipelines. |
+
+---
+
+### 📊 Analytics & Visualization Projects
+| Project | Description |
+|-------|-------------|
+| **[Chicago Crash Analysis](https://github.com/vaishnavi333/Crash-Analysis)** | Exploratory data analysis and visualization of Chicago crash data to uncover trends in accidents, severity, and timing. |
+
+---
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavi333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
